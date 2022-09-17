@@ -16,7 +16,7 @@ int main(){
         n = n >> 1;
         i++;
     }
-    cout <<"Answe is : " << ans << endl;
+    cout <<"Answer is : " << ans << endl;
     
     return 0;
 }
